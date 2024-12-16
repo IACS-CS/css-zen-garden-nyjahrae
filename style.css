@@ -13,6 +13,53 @@
 */
 
 /* Starter code -- feel free to delete */
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,400..700;1,400..700&family=Bebas+Neue&family=Great+Vibes&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lobster&family=Montserrat+Underline:ital,wght@0,100..900;1,100..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Pacifico&family=Saira+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap');
+.iacs {
+  color: black;
+}
+h1 {
+  color: back;
+  text-align: center;
+  font-size: 80px;
+  font-family: "Lobster", sans-serif;
+  font-weight: 60px;
+  border: 2px solid black;
+
+  text-align: center;
+}
+.page-wrapper {
+  width: 1000px;
+  margin-inline: auto;
+  background-color: #f977bc
+    
+}
+  
+body {
+  font-family: "Bebas Neue", sans-serif;
+  font-optical-sizing: auto; 
+  font-size: 20px;
+  background-image: url(Untitled.png);
+}
+
+h2 {
+  font-family: "Lobster", serif;
+  border: 2px solid black;
+  width: 300px;
+}
+h3 {
+  font-family: "Lobster", serif;
+  border: 2px solid black;
+  width: 200px;
+}
+
+aside .wrapper {
+  display: flex;
+  justify-content: space-evenly;
+}
+h4 {
+  border: 2px solid black;
+  width: 200px;
+}
 
 /* Typography */
 
@@ -33,17 +80,3 @@ h6 {
   font-family: "Dancing Script", cursive;
 }
 
-/* Background */
-#css-zen-garden {
-  background: linear-gradient(45deg, #f3f3f3 0%, #c8c8c8 100%);
-}
-/* Page wrapper */
-.page-wrapper {
-  box-sizing: border-box;
-  background: rgba(255, 255, 255, 0.9);
-  border: 1px solid #ccc;
-  padding: 1em;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-  max-width: 960px;
-  margin: 0 auto;
-}
