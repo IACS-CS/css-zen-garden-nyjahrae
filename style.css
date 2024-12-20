@@ -1,14 +1,14 @@
 /********************************** 
-* Design by:  [your name]
-* Design name:  [your design name]
+* Design by:  [Nyjahrae Brown]
+* Design name:  [hearts]
 * 
 * License: [license name - e.g. MIT if you want to let others
 * use the design with attribution, or All Rights Reserved if you
 * don't want others to use the design]
 * 
 * Acknowledgments/Sources:
-* - 
-* - 
+* - chatgtb
+* - adobe
 * -
 */
 
@@ -70,13 +70,13 @@ h4 {
   /* Main font */
   font-family: Poppins, sans-serif;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  /* Header font */
-  font-family: "Dancing Script", cursive;
+ { /* Header font */
+  font-family: "Dancing Script", cursive;}
+
+a{
+  color: black;
 }
+
+
+
 
